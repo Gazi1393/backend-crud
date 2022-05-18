@@ -20,3 +20,4 @@ The application has following API endpoints:
 
 ## Additional info
 Used Postman to test the functionalities
+.env.sample includes environment variables
